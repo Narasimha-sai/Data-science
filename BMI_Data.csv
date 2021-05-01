@@ -1,4 +1,4 @@
-Gender,Weight(in Kg),Height(in m),BMI,Index
+Gender,Weight(in Kgs),Height(in mts),BMI,Index
 0,96,1.74,31.70828379,Obesity
 0,87,1.89,24.35542118,Normal
 1,110,1.85,32.14024836,Obesity
